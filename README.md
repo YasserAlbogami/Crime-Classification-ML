@@ -15,7 +15,7 @@ Crime classification is crucial for law enforcement, helping authorities **predi
 📌 **This project is based on REAL police crime reports from the San Francisco Police Department (SFPD).**  
 📌 The dataset contains **hundreds of thousands** of real criminal cases, including crimes like **theft, assault, drug violations, fraud, and more.**  
 📌 **Where to get the dataset?**  
-➡️ **Download it from Kaggle:** [Click Here](https://www.kaggle.com/path-to-your-dataset) *(Replace with actual Kaggle link)*  
+➡️ **Download it from Kaggle:** [Click Here](https://www.kaggle.com/datasets/kaggle/san-francisco-crime-classification?select=test.csv) *(Replace with actual Kaggle link)*  
 
 ⚠️ **Note:** Due to GitHub's file size limits, the dataset is not included in this repo. **You must download it manually and place it in your project folder before running the model.**  
 
@@ -40,7 +40,7 @@ pip install pandas scikit-learn joblib
 ```
 
 ### 2️⃣ Download & Place Dataset  
-- **Download the dataset** from [Kaggle]( https://www.kaggle.com/datasets/kaggle/san-francisco-crime-classification?select=test.csv)).  
+- **Download the dataset** from [Kaggle]( https://www.kaggle.com/datasets/kaggle/san-francisco-crime-classification?select=test.csv).  
 - Place it in your project folder as `train.csv`.  
 
 ### 3️⃣ Train the Model  
